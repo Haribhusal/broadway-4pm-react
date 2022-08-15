@@ -1,0 +1,36 @@
+[{
+        "id": 1,
+        "title": "This is a heading of card 1",
+        "desc": "This is the discription of card 1. This text is just to fill the space.",
+        "imageUrl": "https://picsum.photos/id/12/1000/700",
+        "buttonText": "Read More"
+    },
+    {
+        "id": 2,
+        "title": "This is a heading of card 2",
+        "desc": "This is the discription of card 2. This text is just to fill the space.",
+        "imageUrl": "https://picsum.photos/id/16/1000/700",
+        "buttonText": "Get Started"
+    },
+    {
+        "id": 3,
+        "title": "This is a heading of card 3",
+        "desc": "This is the discription of card 3. This text is just to fill the space.",
+        "imageUrl": "https://picsum.photos/id/133/1000/700",
+        "buttonText": "Know More"
+    },
+    {
+        "id": 4,
+        "title": "This is a heading of card 4",
+        "desc": "This is the discription of card 4. This text is just to fill the space.",
+        "imageUrl": "https://picsum.photos/id/3/1000/700",
+        "buttonText": "Go!"
+    },
+    {
+        "id": 4,
+        "title": "This is a heading of card 4",
+        "desc": "This is the discription of card 4. This text is just to fill the space.",
+        "imageUrl": "https://picsum.photos/id/3/1000/700",
+        "buttonText": "Go!"
+    }
+]
