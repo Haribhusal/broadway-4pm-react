@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is created with [Hari Bhusal]
+(https://haribhusal.com.np)
+
 ## Available Scripts
 
 In the project directory, you can run:
